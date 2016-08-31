@@ -1,17 +1,22 @@
 {
   "author": "Neylor Ohmaly",
+  "contributors": [
+    {
+      "name": "Peter Andreas Moelgaard"
+    }
+  ],
   "main": "src/nsPopover.js",
-  "name": "nsPopover",
+  "name": "nx-popover",
   "version": "0.6.8",
-  "homepage": "http://nohros.com/nsPopover",
+  "homepage": "https://github.com/nexoes/nsPopover",
   "licenses": {
     "type": "MIT",
-    "url": "https://raw.github.com/nohros/nsPopover/master/LICENSE"
+    "url": "https://github.com/nexoes/nsPopover/master/LICENSE"
   },
-  "bugs": "https://github.com/nohros/nsPopover/issues",
+  "bugs": "https://github.com/nexoes/nsPopover/issues",
   "repository": {
     "type": "git",
-    "url": "git@github.com:nohros/nsPopover.git"
+    "url": "git@github.com:nexoes/nsPopover.git"
   },
   "dependencies": {},
   "devDependencies": {
